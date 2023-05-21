@@ -14,6 +14,16 @@
 		2ECF0DB12A1739EF006EFFA6 /* BluetoothTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DB02A1739EF006EFFA6 /* BluetoothTests.swift */; };
 		2ECF0DBB2A1739EF006EFFA6 /* BluetoothUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DBA2A1739EF006EFFA6 /* BluetoothUITests.swift */; };
 		2ECF0DBD2A1739EF006EFFA6 /* BluetoothUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DBC2A1739EF006EFFA6 /* BluetoothUITestsLaunchTests.swift */; };
+		2ECF0DCA2A173A33006EFFA6 /* BluetoothPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DC92A173A33006EFFA6 /* BluetoothPeripheral.swift */; };
+		2ECF0DCC2A1754CB006EFFA6 /* BluetoothCenteral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DCB2A1754CB006EFFA6 /* BluetoothCenteral.swift */; };
+		2ECF0DCE2A175833006EFFA6 /* CentereralModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DCD2A175833006EFFA6 /* CentereralModeView.swift */; };
+		2ECF0DD02A17587E006EFFA6 /* PeripheralModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DCF2A17587E006EFFA6 /* PeripheralModeView.swift */; };
+		2ECF0DD22A17937F006EFFA6 /* PeripheralView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DD12A17937F006EFFA6 /* PeripheralView.swift */; };
+		2ECF0DD42A1793AA006EFFA6 /* PeripheralViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DD32A1793AA006EFFA6 /* PeripheralViewModel.swift */; };
+		2ECF0DD82A182FEE006EFFA6 /* ServiceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DD72A182FEE006EFFA6 /* ServiceViewModel.swift */; };
+		2ECF0DDA2A187400006EFFA6 /* CharacteristicsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DD92A187400006EFFA6 /* CharacteristicsView.swift */; };
+		2ECF0DDC2A18C0DB006EFFA6 /* CharacteristicViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DDB2A18C0DB006EFFA6 /* CharacteristicViewModel.swift */; };
+		2ECF0DDE2A199BEC006EFFA6 /* BluetoothButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF0DDD2A199BEC006EFFA6 /* BluetoothButtonStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +54,16 @@
 		2ECF0DB62A1739EF006EFFA6 /* BluetoothUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BluetoothUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ECF0DBA2A1739EF006EFFA6 /* BluetoothUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothUITests.swift; sourceTree = "<group>"; };
 		2ECF0DBC2A1739EF006EFFA6 /* BluetoothUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2ECF0DC92A173A33006EFFA6 /* BluetoothPeripheral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothPeripheral.swift; sourceTree = "<group>"; };
+		2ECF0DCB2A1754CB006EFFA6 /* BluetoothCenteral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothCenteral.swift; sourceTree = "<group>"; };
+		2ECF0DCD2A175833006EFFA6 /* CentereralModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CentereralModeView.swift; sourceTree = "<group>"; };
+		2ECF0DCF2A17587E006EFFA6 /* PeripheralModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeripheralModeView.swift; sourceTree = "<group>"; };
+		2ECF0DD12A17937F006EFFA6 /* PeripheralView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeripheralView.swift; sourceTree = "<group>"; };
+		2ECF0DD32A1793AA006EFFA6 /* PeripheralViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeripheralViewModel.swift; sourceTree = "<group>"; };
+		2ECF0DD72A182FEE006EFFA6 /* ServiceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceViewModel.swift; sourceTree = "<group>"; };
+		2ECF0DD92A187400006EFFA6 /* CharacteristicsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteristicsView.swift; sourceTree = "<group>"; };
+		2ECF0DDB2A18C0DB006EFFA6 /* CharacteristicViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteristicViewModel.swift; sourceTree = "<group>"; };
+		2ECF0DDD2A199BEC006EFFA6 /* BluetoothButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothButtonStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +114,8 @@
 		2ECF0D9E2A1739EE006EFFA6 /* Bluetooth */ = {
 			isa = PBXGroup;
 			children = (
+				2ECF0DD62A17A6E5006EFFA6 /* ViewModels */,
+				2ECF0DD52A17A6D0006EFFA6 /* Views */,
 				2ECF0D9F2A1739EE006EFFA6 /* BluetoothApp.swift */,
 				2ECF0DA12A1739EE006EFFA6 /* ContentView.swift */,
 				2ECF0DA32A1739EE006EFFA6 /* Assets.xcassets */,
@@ -125,6 +147,30 @@
 				2ECF0DBC2A1739EF006EFFA6 /* BluetoothUITestsLaunchTests.swift */,
 			);
 			path = BluetoothUITests;
+			sourceTree = "<group>";
+		};
+		2ECF0DD52A17A6D0006EFFA6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2ECF0DCD2A175833006EFFA6 /* CentereralModeView.swift */,
+				2ECF0DCF2A17587E006EFFA6 /* PeripheralModeView.swift */,
+				2ECF0DD12A17937F006EFFA6 /* PeripheralView.swift */,
+				2ECF0DD92A187400006EFFA6 /* CharacteristicsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2ECF0DD62A17A6E5006EFFA6 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				2ECF0DC92A173A33006EFFA6 /* BluetoothPeripheral.swift */,
+				2ECF0DCB2A1754CB006EFFA6 /* BluetoothCenteral.swift */,
+				2ECF0DD32A1793AA006EFFA6 /* PeripheralViewModel.swift */,
+				2ECF0DD72A182FEE006EFFA6 /* ServiceViewModel.swift */,
+				2ECF0DDB2A18C0DB006EFFA6 /* CharacteristicViewModel.swift */,
+				2ECF0DDD2A199BEC006EFFA6 /* BluetoothButtonStyle.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +303,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2ECF0DDE2A199BEC006EFFA6 /* BluetoothButtonStyle.swift in Sources */,
 				2ECF0DA22A1739EE006EFFA6 /* ContentView.swift in Sources */,
+				2ECF0DCE2A175833006EFFA6 /* CentereralModeView.swift in Sources */,
+				2ECF0DD02A17587E006EFFA6 /* PeripheralModeView.swift in Sources */,
+				2ECF0DDA2A187400006EFFA6 /* CharacteristicsView.swift in Sources */,
 				2ECF0DA02A1739EE006EFFA6 /* BluetoothApp.swift in Sources */,
+				2ECF0DD42A1793AA006EFFA6 /* PeripheralViewModel.swift in Sources */,
+				2ECF0DCC2A1754CB006EFFA6 /* BluetoothCenteral.swift in Sources */,
+				2ECF0DD22A17937F006EFFA6 /* PeripheralView.swift in Sources */,
+				2ECF0DDC2A18C0DB006EFFA6 /* CharacteristicViewModel.swift in Sources */,
+				2ECF0DD82A182FEE006EFFA6 /* ServiceViewModel.swift in Sources */,
+				2ECF0DCA2A173A33006EFFA6 /* BluetoothPeripheral.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +476,7 @@
 				DEVELOPMENT_TEAM = 65J4V6A9L5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Bluetooth using";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +506,7 @@
 				DEVELOPMENT_TEAM = 65J4V6A9L5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Bluetooth using";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
