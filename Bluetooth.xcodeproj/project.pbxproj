@@ -64,6 +64,7 @@
 		2ECF0DD92A187400006EFFA6 /* CharacteristicsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteristicsView.swift; sourceTree = "<group>"; };
 		2ECF0DDB2A18C0DB006EFFA6 /* CharacteristicViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteristicViewModel.swift; sourceTree = "<group>"; };
 		2ECF0DDD2A199BEC006EFFA6 /* BluetoothButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothButtonStyle.swift; sourceTree = "<group>"; };
+		2ECF0DDF2A19A676006EFFA6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		2ECF0D932A1739EE006EFFA6 = {
 			isa = PBXGroup;
 			children = (
+				2ECF0DDF2A19A676006EFFA6 /* README.md */,
 				2ECF0D9E2A1739EE006EFFA6 /* Bluetooth */,
 				2ECF0DAF2A1739EF006EFFA6 /* BluetoothTests */,
 				2ECF0DB92A1739EF006EFFA6 /* BluetoothUITests */,
